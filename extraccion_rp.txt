@@ -1,0 +1,10 @@
+r_p (teoria completa, propagacion lineal) = 0.84087 +/- 0.00039 fm
+r_p (Monte Carlo, N = 1000000)                = 0.84087 +/- 0.00040 fm
+B teoria completa                         = 5.2275 meV/fm^2
+B orden lider (ec. 8)                     = 5.1975 meV/fm^2
+B numerico exacto (esfera, no relat.)     = 5.1722 meV/fm^2
+r_p usando B orden lider                  = 0.84330 fm
+r_p usando B numerico                     = 0.84536 fm
+DeltaE_L predicho con CODATA 2006         = 202.0480 +/- 0.0633 meV
+DeltaE_L medido                           = 202.3706 +/- 0.0023 meV
+Diferencia medido - predicho              = 0.3226 meV  (5.1 sigma)

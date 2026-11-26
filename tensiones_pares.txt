@@ -1,0 +1,5 @@
+CODATA 2006                vs Pohl 2010                    : +5.04 sigma
+CODATA 2014                vs Antognini 2013               : +5.60 sigma
+Bernauer 2010 (A1)         vs Xiong 2019 (PRad)            : +3.01 sigma
+Fleurbaey 2018 (1S-3S)     vs Grinin 2020 (1S-3S)          : +2.13 sigma
+CODATA 2022                vs Maisenbacher 2026 (2S-6P)    : +0.09 sigma

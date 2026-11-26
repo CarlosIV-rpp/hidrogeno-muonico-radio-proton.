@@ -1,0 +1,2 @@
+1 - DeltaE/DeltaE_LO ~ k (r_p/a):  k = 1.642 (esfera), 1.897 (exponencial), 1.740 (gauss)
+Friar <r^3>_(2)/(2 r_p^3) (Monte Carlo): 1.640 (esfera), 1.894 (exponencial), 1.740 (gauss)
