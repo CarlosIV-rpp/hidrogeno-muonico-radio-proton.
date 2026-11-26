@@ -1,0 +1,4 @@
+cantidad;valor_meV;inc_meV;referencia
+DeltaE_L_exp;202.3706;0.0023;A. Antognini et al., Science 339, 417 (2013)
+A_teoria;206.0668;0.0025;A. Antognini et al., Ann. Phys. 331, 127 (2013), incluye TPE 0.0332(20) meV
+B_teoria;5.2275;0.0010;A. Antognini et al., Ann. Phys. 331, 127 (2013), coeficiente de r_p^2 en meV/fm^2

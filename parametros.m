@@ -1,0 +1,21 @@
+function p = parametros()
+c = constantes();
+p.N = 20000;
+p.K = 3;
+p.rp = c.rp_codata22;
+p.modelo = 'esfera';
+p.ref.nombre = 'H';
+p.ref.tex = 'H';
+p.ref.mL = c.me;
+p.ref.mN = c.mp;
+p.ref.Z = 1;
+p.asig.nombre = [char(956) 'H'];
+p.asig.tex = '$\mu$H';
+p.asig.mL = c.mmu;
+p.asig.mN = c.mp;
+p.asig.Z = 1;
+p.rp_barrido = 0.70:0.05:1.00;
+p.rhoP_barrido = logspace(-5, -1, 13);
+p.semilla = 2026;
+p.Nmc = 1e6;
+end

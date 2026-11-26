@@ -1,0 +1,13 @@
+function col = estilo()
+set(groot, 'defaultAxesFontSize', 10, 'defaultAxesLineWidth', 0.7, ...
+    'defaultLineLineWidth', 1.6, 'defaultAxesBox', 'on', ...
+    'defaultAxesXGrid', 'on', 'defaultAxesYGrid', 'on', ...
+    'defaultAxesGridAlpha', 0.12, 'defaultFigureColor', 'w', ...
+    'defaultLegendBox', 'off', 'defaultAxesTitleFontWeight', 'normal');
+col.azul = [42 120 214]/255;
+col.naranja = [235 104 52]/255;
+col.aqua = [27 175 122]/255;
+col.violeta = [98 80 214]/255;
+col.gris = [82 81 78]/255;
+col.claro = [0.88 0.88 0.88];
+end
